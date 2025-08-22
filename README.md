@@ -40,7 +40,7 @@ Visual representation of the database schema showing tables and relationships fo
 
 ## Technologies Used
 
-- Python (Pandas, NumPy, Requests)
+- Python (Pandas, NumPy, Requests, Matplotlib, Seaborn, SciPy, Statsmodels)
 - SQL
 - Jupyter Notebook
 - Tableau Public

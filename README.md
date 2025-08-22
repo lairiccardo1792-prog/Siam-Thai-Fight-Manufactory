@@ -23,9 +23,9 @@ This project provides key insights on markets, margins, and performance of Siam 
 
 - [`SCRIPT/Test_A_B.ipynb`](SCRIPT/Test_A_B.ipynb): Jupyter notebook with detailed exploratory data analysis and statistical testing to evaluate the impact of discount strategies.
 
-### Interactive Dashboard (Tableau)
+### INTERACTIVE DASHBOARD (TABLEAU)
 
-Explore the full interactive dashboard on Tableau Public:
+To view the full interactive dashboard on Tableau Public, **click on the image below**:
 
 [![Tableau Dashboard Screenshot](VISUAL/intro.png)](https://public.tableau.com/app/profile/riccardo.lai/viz/SiamThai-FightManufactory/SiamThaiFightManufactory)
 

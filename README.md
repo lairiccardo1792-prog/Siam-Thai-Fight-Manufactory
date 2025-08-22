@@ -45,7 +45,7 @@ Visual representation of the database schema showing tables and relationships fo
 - Jupyter Notebook
 - Tableau Public
 - GitHub
-- Lucidchart
+- Dbdiagram.io
 
 ## Author
 

@@ -35,8 +35,8 @@ Explore the full interactive dashboard on Tableau Public:
 
 Visual representation of the database schema showing tables and relationships for efficient querying and data understanding.
 
-![ERD Diagram](EDR/your_erd_image_filename.png)  
-*Replace `your_erd_image_filename.png` with the actual ERD image file name.*
+![ERD Diagram](EDR/ERD.jpg)  
+
 
 ## Technologies Used
 

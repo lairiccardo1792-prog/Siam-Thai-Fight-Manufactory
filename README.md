@@ -17,7 +17,7 @@ This project provides key insights on markets, margins, and performance of Siam 
 
 ### SQL Analysis
 
-- [`SQL/SQL.ipynb`](SQL/SQL.ipynb): Jupyter notebook containing SQL queries to aggregate and prepare data for visualization and analysis, including sales performance, margins, and discount loss.
+- [`SQL/SQL.ipynb`](SQL/SQL.ipynb): Jupyter notebook containing SQL queries to aggregate and prepare data for visualization and analysis, including sales performance, margins,discount loss, and defective unit losses by factory.
 
 ### Exploratory Data Analysis & A/B Testing
 

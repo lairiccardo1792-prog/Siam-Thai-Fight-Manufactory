@@ -27,7 +27,7 @@ This project provides key insights on markets, margins, and performance of Siam 
 
 To view the full interactive dashboard on Tableau Public, **click on the image below**:
 
-[![Tableau Dashboard Screenshot](VISUAL/intro.png)](https://public.tableau.com/app/profile/riccardo.lai/viz/SiamThai-FightManufactory/SiamThaiFightManufactory)
+[![Tableau Dashboard Screenshot](VISUAL/Dash1.png)](https://public.tableau.com/app/profile/riccardo.lai/viz/SiamThai-FightManufactory/SiamThaiFightManufactory)
 
 **Quick Overview:** This dashboard provides a comprehensive view of key sales metrics, production efficiency, and financial trends for Siam Thai Fight Manufactory.
 
